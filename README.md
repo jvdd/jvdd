@@ -14,9 +14,10 @@ I like to solve problems with code 🖥️🤖💥. Among other things :)
 
 - [plotly-resampler](https://github.com/predict-idlab/plotly-resampler): add scalability to the [plotly.py](https://github.com/plotly/plotly.py) toolkit for time series visualization through efficient resampling in the backend.
 - [tsflex](https://github.com/predict-idlab/tsflex): provide a flexible and efficient way to process & extract features from time series data.
+- [powershap](https://github.com/predict-idlab/powershap): a [scikit-learn](https://github.com/scikit-learn/scikit-learn) compatible feature selector using statistical hypothesis testing and power calculations on Shapley values.
 - [argminmax](https://github.com/jvdd/argminmax): highly optimized implementation of argmin & argmax (in 1 function) using SIMD instructions and runtime CPU feature detection.
+- [tsdownsample](https://github.com/predict-idlab/tsdownsample): extremely fast time series downsampling for visualization.
 
-<!-- - [powershap](https://github.com/predict-idlab/powershap): a [scikit-learn](https://github.com/scikit-learn/scikit-learn) compatible feature selector using statistical hypothesis testing and power calculations on Shapley values. -->
 
 <!-- ## Projects I contributed to -->
 
