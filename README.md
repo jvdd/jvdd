@@ -24,4 +24,4 @@ I like to solve problems with code 🖥️🤖💥. Among other things :)
 
 ## Contact
 
-You can find me on [Twitter](https://twitter.com/jeroen_vdd) or [LinkedIn](https://www.linkedin.com/in/jeroen-van-der-donckt/).
+You can find me on [LinkedIn](https://www.linkedin.com/in/jeroen-van-der-donckt/).
